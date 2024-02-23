@@ -1,0 +1,13 @@
+/* Đây là phần CSS */
+body {
+    font-family: Arial, sans-serif; /* Thiết lập phông chữ */
+    background-color: #f0f0f0; /* Thiết lập màu nền */
+    margin: 0; /* Xóa khoảng cách lề */
+    padding: 0; /* Xóa padding */
+}
+
+h1 {
+    color: #333; /* Thiết lập màu chữ */
+    text-align: center; /* Căn giữa tiêu đề */
+    margin-top: 50px; /* Khoảng cách từ đỉnh trang */
+}
