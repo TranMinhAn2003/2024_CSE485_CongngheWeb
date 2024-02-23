@@ -1,0 +1,36 @@
+  
+        nav {
+            background-color: #0000CC
+
+;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+        .icon,.lights{
+            margin: 10px ;
+            color :#fff;    
+        }
+        .lights{
+            display :block;
+            width : 2px;
+            height : 25px;
+            background-color : white;
+        }
+        li {
+            float: left;
+        }
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 10px 12px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #00FF33;
+        }
+ 
